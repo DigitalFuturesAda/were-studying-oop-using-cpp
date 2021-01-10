@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/slyo/CLionProjects/Learning/hi/Planet.cpp
+Planet.h
+/Users/slyo/CLionProjects/Learning/hi/Planet.h
+
+/Users/slyo/CLionProjects/Learning/hi/Planet.h
+
+/Users/slyo/CLionProjects/Learning/main.cpp
+iostream
+-
+utility
+-
+hi/Planet.h
+/Users/slyo/CLionProjects/Learning/hi/Planet.h
+
